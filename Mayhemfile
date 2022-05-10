@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-tcc
+target: tcc
+
+cmds:
+  - cmd: /tcc/tcc -run @@
+    filepath: /test.c
